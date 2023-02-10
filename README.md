@@ -15,6 +15,9 @@ Selamat datang, perkenalkan nama saya Dimas Febriyanto. Dapat dipanggil Dimas at
 # Framework
 <img src="assets/gin.png" width="50" title="Golang"> <img src="assets/flutter.png" width="50" title="Dart">
 
+# Database
+<img src="assets/mysql.png" width="60" title="MySql">
+
 <br>
 
 # Project
