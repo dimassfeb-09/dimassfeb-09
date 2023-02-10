@@ -40,7 +40,9 @@ Selamat datang, perkenalkan nama saya Dimas Febriyanto. Dapat dipanggil Dimas at
 - Pertemuan 3: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P3_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
 - Pertemuan 4: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P4_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
 - Pertemuan 5: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P5_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
-- Pertemuan 6: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P6_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
+- Pertemuan 6: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P6/P6_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
+- Pertemuan 7: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P7_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
+
 
 ### Matematika Informatika
 - Pertemuan 1: <a href="https://github.com/kuliah-dimas/matif/tree/master/LA1">Click here </a>
