@@ -34,7 +34,7 @@ Selamat datang, perkenalkan nama saya Dimas Febriyanto. Dapat dipanggil Dimas at
 
 <br>
 
-# Kuliah
+# Kuliah Semester 1
 ### Algoritma Dan Pemrograman
 - Pertemuan 1: <a href="#">Not Found</a>
 - Pertemuan 2: <a href="https://github.com/kuliah-dimas/alpro/blob/master/P2_LA_DIMAS%20FEBRIYANTO.py">Click here </a>
@@ -50,6 +50,15 @@ Selamat datang, perkenalkan nama saya Dimas Febriyanto. Dapat dipanggil Dimas at
 - Pertemuan 2: <a href="https://github.com/kuliah-dimas/matif/tree/master/LA2">Click here </a>
 - Pertemuan 3: <a href="https://github.com/kuliah-dimas/matif/tree/master/LA3">Click here </a>
 - Pertemuan 4: <a href="https://github.com/kuliah-dimas/matif/tree/master/LA4">Click here </a>
+
+
+# Kuliah Semester 2
+### Algoritma Dan Pemrograman 2A
+- Pertemuan 1: <a href="https://github.com/kuliah-dimas/ap2a/tree/main/M1">Click here</a>
+- Pertemuan 2: <a href="https://github.com/kuliah-dimas/ap2a/tree/main/M2">Click here</a>
+
+
+### Matematika Informatika
 
 <!-- 
 [![](https://raw.githubusercontent.com/dimassfeb-09/dimassfeb-09/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
