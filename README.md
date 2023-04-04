@@ -57,9 +57,6 @@ Selamat datang, perkenalkan nama saya Dimas Febriyanto. Dapat dipanggil Dimas at
 - Pertemuan 1: <a href="https://github.com/kuliah-dimas/ap2a/tree/main/M1">Click here</a>
 - Pertemuan 2: <a href="https://github.com/kuliah-dimas/ap2a/tree/main/M2">Click here</a>
 
-
-### Matematika Informatika
-
 <!-- 
 [![](https://raw.githubusercontent.com/dimassfeb-09/dimassfeb-09/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dimassfeb-09/dimassfeb-09/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dimassfeb-09/dimassfeb-09/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
