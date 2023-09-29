@@ -1,4 +1,4 @@
-# Dimas Febriyantio
+# Dimas Febriyanto
 
 ## _Pemuda Penuh Energi wkwk!_
 
