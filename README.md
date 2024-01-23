@@ -2,7 +2,7 @@
 
 <p align="justify">HI! I'm Dimas F., a determined college student working towards a degree in Informatics Engineering. My enthusiasm for keeping abreast of the latest technological developments has motivated me to continuously enhance my expertise and abilities. This has molded me into a self-assured and capable individual, prepared to make meaningful contributions to the evolving landscape of technology.</p>
 
-- 📚 I 'm a **3th semester** student majoring in **Informatics** at **Gunadarma University.**
+- 📚 I 'm a **3rd semester** student majoring in **Informatics** at **Gunadarma University.**
 - 🔭 I’m currently working on **Lembaga Pengembangan Komputer (LePKom) at Gunadarma University.**
 - 🌱 I'm currently learning about **Mobile Development and Backend Development.**
 - 📫 How to reach me: <a href="mailto:dimassfeb@gmail.com">**dimassfeb@gmail.com.**</a>
