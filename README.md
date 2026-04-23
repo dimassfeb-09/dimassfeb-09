@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Dimas Febriansyah**, a dedicated Fullstack & Mobile Developer based in Bekasi, Indonesia. I specialize in building scalable backend systems and high-performance cross-platform mobile applications. I am passionate about clean architecture, maintainable code, and continuous learning.
+Hi! I'm **Dimas Febriyanto**, a dedicated Fullstack & Mobile Developer based in Bekasi, Indonesia. I specialize in building scalable backend systems and high-performance cross-platform mobile applications. I am passionate about clean architecture, maintainable code, and continuous learning.
 
 - 📱 Currently working as a **Junior Mobile Developer** at **Sagara Technology**.
 - 🎓 Final year Informatics student at **Gunadarma University**.
