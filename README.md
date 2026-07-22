@@ -13,6 +13,13 @@ Open for full-time, freelance, or remote opportunities.
 
 ---
 
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dimassfeb-09&show_icons=true&theme=algolia&hide_border=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassfeb-09&layout=compact&theme=algolia&hide_border=true)
+
+---
+
 ### Projects
 
 - **CV ATS Builder** — Flutter, Node.js, Supabase · [Play Store](https://play.google.com/store/apps/details?id=com.cv_ats_builder)
