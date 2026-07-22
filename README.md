@@ -13,8 +13,7 @@ Open for full-time, freelance, or remote opportunities.
 
 ---
 
-![Followers](https://img.shields.io/github/followers/dimassfeb-09?style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/dimassfeb-09?style=flat-square&label=Stars)
+![Trophy](https://github-profile-trophy.vercel.app/?username=dimassfeb-09&theme=algolia&no-frame=true&row=2&column=4)
 
 ---
 
