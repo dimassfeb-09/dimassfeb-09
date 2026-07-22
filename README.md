@@ -13,10 +13,8 @@ Open for full-time, freelance, or remote opportunities.
 
 ---
 
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dimassfeb-09&show_icons=true&theme=algolia&hide_border=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassfeb-09&layout=compact&theme=algolia&hide_border=true)
+![Followers](https://img.shields.io/github/followers/dimassfeb-09?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/dimassfeb-09?style=flat-square&label=Stars)
 
 ---
 
