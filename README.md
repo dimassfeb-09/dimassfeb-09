@@ -13,10 +13,6 @@ Open for full-time, freelance, or remote opportunities.
 
 ---
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=dimassfeb-09&theme=algolia&no-frame=true&row=2&column=4)
-
----
-
 ### Projects
 
 - **CV ATS Builder** — Flutter, Node.js, Supabase · [Play Store](https://play.google.com/store/apps/details?id=com.cv_ats_builder)
